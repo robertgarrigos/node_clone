@@ -42,7 +42,7 @@ set whether the publishing options are reset when making a clone of a node.
 This is set for each node type individually.
 
 This module seems to work with common node types, however YMMV (your mileage may vary),
-especially with nodes that have any sort of image or file  attachments.  In all cases, 
+especially with nodes that have any sort of image or file  attachments.  In all cases,
 but especially if you are using a complex (non-core) field or custom node type,
 you should evaluate this module on a test site with a copy of your database
 before attempting to use it on a live site. On the settings page you may choose
@@ -69,13 +69,14 @@ This project is GPL v2 software. See the LICENSE.txt file in this directory for 
 Credits
 -------
 
-Peter Wolanin <https://www.drupal.org/u/pwolanin>
+[Peter Wolanin](https://www.drupal.org/u/pwolanin)
 
 Maintainers
 -----------
 
+- [Robert Garrigós](https://github.com/robertgarrigos)
 - seeking
 
 Ported to Backdrop by:
 
-- biolithic <https://github.com/biolithic>
+- [biolithic](https://github.com/biolithic)
